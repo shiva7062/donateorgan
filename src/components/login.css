@@ -1,0 +1,9 @@
+.login{
+ height: 60rem;
+ margin-top: 10rem;
+}
+.login1{
+    height: 40rem;
+    background-image: url(../img/bg4.png);
+    background-size: 25%;
+}

@@ -1,0 +1,124 @@
+[
+    {
+      "name": "Apollo Hospitals",
+      "location": "Chennai",
+      "organs": [
+        "heart",
+        "liver",
+        "kidney"
+      ],
+      "url": "https://www.apollohospitals.com/"
+    },
+    {
+      "name": "Fortis Hospital",
+      "location": "Mumbai",
+      "organs": [
+        "kidney",
+        "pancreas"
+      ],
+      "url": "https://www.fortishealthcare.com/"
+    },
+    {
+      "name": "Max Super Speciality Hospital",
+      "location": "New Delhi",
+      "organs": [
+        "liver",
+        "lung"
+      ],
+      "url": "https://www.maxhealthcare.in/"
+    },
+    {
+      "name": "AIIMS",
+      "location": "New Delhi",
+      "organs": [
+        "heart",
+        "kidney",
+        "liver",
+        "lung",
+        "pancreas"
+      ],
+      "url": "https://www.aiims.edu/"
+    },
+    {
+      "name": "Manipal Hospitals",
+      "location": "Bangalore",
+      "organs": [
+        "heart",
+        "kidney",
+        "liver"
+      ],
+      "url": "https://www.manipalhospitals.com/"
+    },
+    {
+      "name": "Narayana Health",
+      "location": "Bangalore",
+      "organs": [
+        "heart",
+        "kidney",
+        "liver",
+        "lung"
+      ],
+      "url": "https://www.narayanahealth.org/"
+    },
+    {
+      "name": "Medanta - The Medicity",
+      "location": "Gurgaon",
+      "organs": [
+        "heart",
+        "liver",
+        "kidney",
+        "pancreas"
+      ],
+      "url": "https://www.medanta.org/"
+    },
+    {
+      "name": "Global Hospitals",
+      "location": "Chennai",
+      "organs": [
+        "liver",
+        "kidney",
+        "pancreas"
+      ],
+      "url": "https://www.gleneaglesglobalhospitals.com/"
+    },
+    {
+      "name": "Columbia Asia Hospital",
+      "location": "Bangalore",
+      "organs": [
+        "kidney",
+        "liver",
+        "pancreas"
+      ],
+      "url": "https://www.columbiaindiahospitals.com/"
+    },
+    {
+      "name": "Ruby Hall Clinic",
+      "location": "Pune",
+      "organs": [
+        "heart",
+        "liver",
+        "kidney"
+      ],
+      "url": "https://www.rubyhall.com/"
+    },
+    {
+      "name": "Kokilaben Dhirubhai Ambani Hospital",
+      "location": "Mumbai",
+      "organs": [
+        "heart",
+        "liver",
+        "kidney",
+        "lung"
+      ],
+      "url": "https://www.kokilabenhospital.com/"
+    },
+    {
+      "name": "Artemis Hospitals",
+      "location": "Gurgaon",
+      "organs": [
+        "liver",
+        "kidney"
+      ],
+      "url": "https://www.artemishospitals.com/"
+    }
+]  

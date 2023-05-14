@@ -1,0 +1,14 @@
+.container{
+    background-color: #f7e4e5ff ;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    
+    background-image: url(../img/backlogo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 50rem;
+}
+.container .fieldset{
+    opacity: 0.9;
+}
